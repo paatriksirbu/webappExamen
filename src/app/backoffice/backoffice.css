@@ -1,0 +1,14 @@
+.container {
+    display: grid;
+    grid-template-columns: 1fr 3fr; /* Columna del menú y columna de las páginas */
+    grid-gap: 20px; /* Espacio entre las columnas */
+    justify-content: end; /* Alinea el contenido a la derecha */
+}
+
+.menu {
+    /* Estilos para el menú */
+}
+
+.pages {
+    /* Estilos para las páginas del layout */
+}
