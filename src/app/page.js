@@ -1,6 +1,11 @@
+import React from 'react';
+import Login from '@/components/Login';
 
 export default function Home() {
   return (
-      <>Implementar aquí la pantalla de login usando un componente React</>
+    <div>
+      <h1>Examen Informatica 2</h1>
+      <Login />
+    </div>
   );
 }
